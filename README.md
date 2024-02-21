@@ -37,7 +37,7 @@ conda activate clvision24
 python train.py --config_file scenario_1.pkl
 ```
 
-The aforementioned steps should be OS-agnostic. However, we recommend setting up your dev environment using a 
+The aforementioned steps should be OS-agnostic. However, we recommend setting up your dev environment using a
 mainstream Linux distribution.
 
 ## Code Structure
@@ -76,6 +76,9 @@ Another way to implement your strategy is to define a class that inherits from `
 
 *For a deeper dive into the implementation of strategies, please refer to [**this link**](https://avalanche.continualai.org/from-zero-to-hero-tutorial/04_training). 
 
+#### Baseline strategy
+As a baseline strategy, we also provide LwFUnlabelled in `strategies/lwf_unlabelled.py`, which applies the well-known Learning without Forgetting (LwF) strategy described in https://arxiv.org/abs/1606.09282 to both the labelled and the unlabelled data streams. For reference, the results from this strategy are listed in the [CodaLab leaderboard](https://codalab.lisn.upsaclay.fr/competitions/17780#results) under the user `test_clvision24`.
+
 ## Submitting a solution
 Solutions must be submitted through the CodaLab portal:
 tba
@@ -87,7 +90,7 @@ A solution must be a zip file that contains **three** prediction files generated
 
 where the numbers indicate the scenario ID on which the model is trained.
 
-Teams can make up to 3 submissions daily, with an overall cap of 50 submissions. 
+Teams can make up to 3 submissions daily, with an overall cap of 50 submissions throughout the competition. 
 We will ensure that submissions from each team stay within this limit.
 
 ## Suggestions
