@@ -97,6 +97,7 @@ We will ensure that submissions from each team stay within this limit.
 
 - The devkit may be updated when new features are requested by participants. We recommend frequently checking if there are new updates.
 - Consider using dashboard loggers, such as *Tensorboard* or *Weights & Biases*. See the tutorial on loggers [here](https://avalanche.continualai.org/from-zero-to-hero-tutorial/06_loggers). You can use more than one logger at the same time!
+- Please check the ❗❗❗ [**FAQ**](https://sites.google.com/view/clvision2024/challenge#h.iz67c0d6y6ry) ❗❗❗ for common problems or clarification and updates of the competition rules!
 
 ## Acknowledgements
 We would like to thank the _ImageNet Large Scale Visual Recognition Challenge_ for providing the base of the dataset used in the challenge.
