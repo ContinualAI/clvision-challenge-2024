@@ -2,7 +2,7 @@
 
 This is the official starting repository for the Continual Learning Challenge held in the 5th CLVision Workshop @ CVPR 2024.
 
-Please refer to the [**challenge website**](https://sites.google.com/view/clvision2024/challenge) for more details!
+Please refer to the [**challenge website**](https://sites.google.com/view/clvision2024/challenge) for more details and [**FAQ**](https://sites.google.com/view/clvision2024/challenge#h.iz67c0d6y6ry)!
 
 To participate in the challenge: [**CodaLab website**](https://codalab.lisn.upsaclay.fr/competitions/17780)
 
