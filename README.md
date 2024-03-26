@@ -23,7 +23,7 @@ conda env create -f environment.yml
 ```
 Although we recommend using mamba for a faster environment creation: `mamba env create -f environment.yml`.
 
-3. **Download the competition data**: download the data for the scenarios [here](https://files.icg.tugraz.at/f/deb8e57ba0534350a160/?dl=1) and unzip it into the **data** folder.
+3. **Download the competition data**: download the data for the scenarios [here](https://files.icg.tugraz.at/f/deb8e57ba0534350a160/?dl=1) or [here](https://drive.google.com/file/d/1amesMabV-GQYVhCCeWeFA_PhYkpD2-ii/view?usp=sharing) and unzip it into the **data** folder.
 ```bash
 cd data
 wget --content-disposition 'https://files.icg.tugraz.at/f/deb8e57ba0534350a160/?dl=1'
