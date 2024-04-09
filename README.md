@@ -6,6 +6,14 @@ Please refer to the [**challenge website**](https://sites.google.com/view/clvisi
 
 To participate in the challenge: [**CodaLab website**](https://codalab.lisn.upsaclay.fr/competitions/17780)
 
+## IMPORTANT UPDATE
+**[2024-April-09]** ❗Due to discrepancies in the data configuration files provided in the repository,
+the pickle configurations have been updated to reflect the scenarios depicted on the challenge website.
+We kindly ask you to pull the latest commit with the configurations, retrain your models and submit your best strategies.
+The Codalab leaderboard has been reset, and all participants have regained the original 50 attempts.
+
+We apologize for any inconvenience this may have caused.
+
 
 ## Getting started
 
