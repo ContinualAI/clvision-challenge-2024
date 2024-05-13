@@ -7,6 +7,7 @@ Please refer to the [**challenge website**](https://sites.google.com/view/clvisi
 To participate in the challenge: [**CodaLab website**](https://codalab.lisn.upsaclay.fr/competitions/17780)
 
 ## IMPORTANT UPDATE
+**[2024-May-13]** The pre-selection phase of the challenge has ended. We will contact you soon with more details regarding the next phase.
 **[2024-April-09]** ❗Due to discrepancies in the data configuration files provided in the repository,
 the pickle configurations have been updated to reflect the scenarios depicted on the challenge website.
 We kindly ask you to pull the latest commit with the configurations, retrain your models and submit your best strategies.
